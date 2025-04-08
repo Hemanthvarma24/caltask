@@ -128,7 +128,7 @@ export default function NewGroupPage() {
 
           <Link
             href="/chat/group-new"
-            className="fixed bottom-6 right-6 w-14 h-14 bg-[#02ab86] rounded-full flex items-center justify-center text-white shadow-lg"
+            className="fixed bottom-16 right-6 w-14 h-14 bg-[#02ab86] rounded-full flex items-center justify-center text-white shadow-lg"
           >
             <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
               <path

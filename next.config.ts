@@ -1,8 +1,9 @@
 const nextConfig = {
   output: "export",
   images: {
-    unoptimized: true, 
+    unoptimized: true,
   },
+  basePath: "/allcalls",
 };
 
 export default nextConfig;
